@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="id.ac.poliban.e020320066.checkboxhomework.MainActivity">
+
+    <CheckBox android:id="@+id/checkbox1_chocolate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/chocolate_syrup"
+        android:layout_marginTop="8dp"/>
+
+    <CheckBox android:id="@+id/checkbox2_sprinkles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sprinkles"
+        android:layout_marginTop="8dp"/>
+
+    <CheckBox android:id="@+id/checkbox3_nuts"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/crushed_nuts"
+        android:layout_marginTop="8dp"/>
+
+    <CheckBox android:id="@+id/checkbox4_cherries"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cherries"
+        android:layout_marginTop="8dp"/>
+
+    <CheckBox android:id="@+id/checkbox5_crumbles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/oreo_cookie_crumbles"
+        android:layout_marginTop="8dp"/>
+
+    <Button
+        android:id="@+id/bt_show_toast"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/show_toast"
+        android:onClick="showToast"
+        android:layout_marginTop="10dp"
+        tools:ignore="OnClick,UsingOnClickInXml" />
+
+</LinearLayout>

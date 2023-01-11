@@ -1,0 +1,12 @@
+com.example.android.scorekeeper.app-support-media-compat-26.1.0-0 C:\Users\nanda\.gradle\caches\transforms-3\0e03ec9e149d53caf1e35124a69b6998\transformed\support-media-compat-26.1.0\res
+com.example.android.scorekeeper.app-appcompat-v7-26.1.0-1 C:\Users\nanda\.gradle\caches\transforms-3\340a3290f7ebee0cf791d94cb8aeb1f9\transformed\appcompat-v7-26.1.0\res
+com.example.android.scorekeeper.app-support-compat-26.1.0-2 C:\Users\nanda\.gradle\caches\transforms-3\48c0538cafdcf213d7341ac14a7a1090\transformed\support-compat-26.1.0\res
+com.example.android.scorekeeper.app-constraint-layout-1.0.2-3 C:\Users\nanda\.gradle\caches\transforms-3\7196939e8149c17be1d5bc987f988683\transformed\constraint-layout-1.0.2\res
+com.example.android.scorekeeper.app-pngs-4 D:\KULIAH\SEMESTER 5\PBO 5C\TUGAS\TUGAS 5.1\Scorekeeper\app\build\generated\res\pngs\debug
+com.example.android.scorekeeper.app-resValues-5 D:\KULIAH\SEMESTER 5\PBO 5C\TUGAS\TUGAS 5.1\Scorekeeper\app\build\generated\res\resValues\debug
+com.example.android.scorekeeper.app-rs-6 D:\KULIAH\SEMESTER 5\PBO 5C\TUGAS\TUGAS 5.1\Scorekeeper\app\build\generated\res\rs\debug
+com.example.android.scorekeeper.app-mergeDebugResources-7 D:\KULIAH\SEMESTER 5\PBO 5C\TUGAS\TUGAS 5.1\Scorekeeper\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.scorekeeper.app-mergeDebugResources-8 D:\KULIAH\SEMESTER 5\PBO 5C\TUGAS\TUGAS 5.1\Scorekeeper\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.scorekeeper.app-merged_res-9 D:\KULIAH\SEMESTER 5\PBO 5C\TUGAS\TUGAS 5.1\Scorekeeper\app\build\intermediates\merged_res\debug
+com.example.android.scorekeeper.app-debug-10 D:\KULIAH\SEMESTER 5\PBO 5C\TUGAS\TUGAS 5.1\Scorekeeper\app\src\debug\res
+com.example.android.scorekeeper.app-main-11 D:\KULIAH\SEMESTER 5\PBO 5C\TUGAS\TUGAS 5.1\Scorekeeper\app\src\main\res

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/layout_activity_second.xml.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/layout/activity_second.xml"
+    },
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/layout_activity_main.xml.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/drawable_ic_android_black_24dp.xml.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/drawable/ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/drawable_red_circle.xml.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/drawable/red_circle.xml"
+    },
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.android.transitionsandanimations.app-merged_res-12:/drawable_blue_line.xml.flat",
+        "source": "com.example.android.transitionsandanimations.app-main-14:/drawable/blue_line.xml"
+    }
+]

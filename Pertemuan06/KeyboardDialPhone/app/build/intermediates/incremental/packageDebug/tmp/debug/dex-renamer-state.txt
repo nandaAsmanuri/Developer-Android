@@ -1,0 +1,4 @@
+#Sun Nov 20 21:39:44 SGT 2022
+base.0=D\:\\KULIAH\\SEMESTER 5\\PBO 5C\\TUGAS\\TUGAS 4.2\\KeyboardDialPhone\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
